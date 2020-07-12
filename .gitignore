@@ -58,3 +58,14 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Dir
+.vs
+.svn
+Library
+Temp
+UnityFrameWork/.vscode/settings.json
+UnityFrameWork/Assets/StreamingAssets
+UnityFrameWork/Assembly-CSharp.csproj
+UnityFrameWork/UnityFrameWork.sln
+
+
