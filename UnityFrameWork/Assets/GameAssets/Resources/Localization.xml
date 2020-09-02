@@ -1,0 +1,16 @@
+﻿<!--此时多语言的配置表还没有加载，所以采用XML，把启动时一直到热更新之前的所有需要的多语言配在这里!-->
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+  <Dictionary Language="CN">
+    <String Key="UIStartMenu.Tips" Value="ゲームの時間を合理的に利用する" />
+    <String Key="UIStartMenu.StartBtn.Text" Value="开始游戏" />
+  </Dictionary>
+  <Dictionary Language="JP">
+    <String Key="UIStartMenu.Tips" Value="合理使用游戏时间" />
+    <String Key="UIStartMenu.StartBtn.Text" Value="ゲームを開始" />
+  </Dictionary>
+  <Dictionary Language="EN">
+    <String Key="UIStartMenu.Tips" Value="Make good use of game time" />
+    <String Key="UIStartMenu.StartBtn.Text" Value="Start Game" />
+  </Dictionary>
+</Dictionaries>
